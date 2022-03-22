@@ -1,104 +1,0 @@
-id;parent_id;nama_divisi;kode_divisi;aktif_divisi1;0;Kepala  Badan Siber dan Sandi  Negara;KA;Y2;0;Wakil  Kepala  Badan  Siber dan  Sandi  Negara;WAKA;Y3;1;Sekretaris  Utama;SU;Y4;3;Kepala  Biro  Perencanaan dan  Keuangan;S1;Y5;4;"Koordinator fungsi
-perencanaan, program dan anggaran";S11;Y6;5;"Subkoordinator perencanaan,
-program dan anggaran I";S111;Y7;5;"Subkoordinator perencanaan,
-program dan anggaran II";S112;Y8;5;"Subkoordinator perencanaan,
-program dan anggaran III";S113;Y9;4;"Koordinator fungsi pengelolaan
-kinerja dan risiko";S12;Y10;9;"Subkoordinator pengelolaan
-kinerja dan risiko I";S121;Y11;9;"Subkoordinator pengelolaan
-kinerja dan risiko II";S122;Y12;9;Subkoordinator pengelolaan kinerja dan risiko III;S123;Y13;4;"Koordinator fungsi fungsi
-pengelolaan keuangan";S13;Y14;13;"Subkoordinator pengelolaan
-keuangan I";S131;Y15;13;"Subkoordinator pengelolaan
-keuangan II";S132;Y16;13;"Subkoordinator pengelolaan
-keuangan III";S133;Y17;3;"Kepala  Biro  Organisasi  dan
-Sumber  Daya  Manusia";S2;Y18;17;"Koordinator fungsi pengelolaan
-organisasi dan tata laksana";S21;Y19;18;"Subkoordinator pengelolaan
-organisasi";S211;Y20;18;Subkoordinator pengelolaan tata laksana;S212;Y21;18;Subkoordinator pengelolaan reformasi birokrasi internal;S213;Y22;17;Koordinator fungsi pengelolaan pengembangan kompetensi dan mutasi;S22;Y23;22;Subkoordinator pengelolaan perencanaan dan pengadaan sumber daya manusia;S221;Y24;22;"Subkoordinator pengelolaan
-mutasi";S222;Y25;22;"Subkoordinator manajemen talenta, pengembangan kompetensi dan penilaian
-kompetensi";S223;Y26;17;"Koordinator fungsi pengelolaan
-kesejahteraan dan kinerja sumber daya manusia";S23;Y27;26;"Subkoordinator pengelolaan
-kesejahteraan dan disiplin";S231;Y28;26;"Subkoordinator pengelolaan
-kinerja sumber daya manusia";S232;Y29;26;Subkoordinator pengelolaan data dan informasi sumber daya manusia;S233;Y30;3;"Kepala  Biro  Hukum  dan
-Komunikasi  Publik";S3;Y31;30;"Kepala  Bagian  Dukungan Strategis  dan  Tata  Usaha
-Pimpinan";S31;Y32;31;"Kepala  Subbagian  Tata
-Usaha  Kepala";S311;Y33;31;"Kepala  Subbagian  Tata
-Usaha  Wakil  Kepala";S312;Y34;31;"Kepala  Subbagian  Tata
-Usaha  Sekretariat  Utama";S313;Y35;31;"Kepala  Subbagian  Tata Usaha  Deputi  Bidang Strategi  dan  Kebijakan
-Keamanan  Siber  dan  Sandi";S314;Y36;31;"Kepala  Subbagian  Tata Usaha  Deputi  Bidang Operasi  Keamanan  Siber
-dan  Sandi";S315;Y37;31;"Kepala  Subbagian  Tata Usaha  Deputi  Bidang Keamanan  Siber  dan  Sandi Pemerintahan  dan
-Pembangunan  Manusia";S316;Y38;31;"Kepala Subbagian Tata Usaha Deputi Bidang Keamanan Siber dan Sandi
-Perekonomian";S317;Y39;31;"Subkoordinator pengelolaan
-protokol";S318;Y40;31;Subkoordinator dukungan Strategis Pimpinan;S319;Y41;30;Koordinator fungsi pengelolaan hukum dan kerja sama;S32;Y42;41;"Subkoordinator pengelolaan
-perundang-undangan";S321;Y43;41;"Subkoordinator pengelolaan informasi, bantuan dan
-penyelesaian sengketa hukum";S322;Y44;41;"Subkoordinator pengelolaan kerja sama dan hubungan
-antar lembaga";S323;Y45;30;"Koordinator fungsi pengelolaan
-komunikasi publik";S33;Y46;45;"Subkoordinator pengelolaan
-layanan masyarakat dan informasi publik";S331;Y47;45;"Subkoordinator pengelolaan strategi komunikasi kehumasan, kampanye media
-dan opini publik";S332;Y48;45;Subkoordinator pengelolaan publikasi dan dokumentasi;S333;Y49;45;Subkoordinator pengelolaan dukungan hubungan media;S334;Y50;30;"Koordinator fungsi pengelolaan
-naskah dinas dan kearsipan";S34;Y51;50;"Subkoordinator fungsi pengelolaan persuratan dan
-kearsipan";S341;Y52;3;Kepala Biro Umum;S4;Y53;52;Kepala Bagian Rumah Tangga dan Barang Milik Negara;S41;Y54;53;"Kepala Subbagian Rumah
-Tangga dan Keamanan";S411;Y55;52;"Kepala Bagian Pengadaan
-Barang/Jasa";S42;Y56;1;"Kepala Deputi Bidang Strategi dan Kebijakan Keamanan Siber
-dan Sandi";D1;Y57;56;"Direktur Strategi Keamanan
-Siber dan Sandi";D11;Y58;57;"Koordinator fungsi pengelolaan strategi peningkatan keamanan
-siber dan sandi";D111;Y59;57;"Koordinator fungsi pemajuan kepentingan nasional keamaan
-siber dan sandi";D112;Y60;56;"Direktur Kebijakan Tata
-Kelola Keamanan Siber dan Sandi";D12;Y61;60;"Koordinator fungsi Kebijakan
-Identifikasi dan Proteksi";D121;Y62;60;"Koordinator fungsi Kebijakan
-Deteksi, Penanggulangan dan Pemulihan";D122;Y63;56;"Direktur Kebijakan Teknologi
-Keamanan Siber dan Sandi";D13;Y64;63;"Koordinator fungsi kebijakan standardisasi teknologi
-keamanan siber dan sandi";D131;Y65;64;Subkoordinator kriteria dan persyaratan teknis teknologi keamanan siber dan sandi;D1311;Y66;64;"Subkoordinator standarisasi
-teknologi keamanan siber dan sandi";D1312;Y67;63;"Koordinator fungsi kebijakan sertifikasi teknologi keamanan
-siber dan sandi";D132;Y68;67;"Subkoordinator sertifikasi
-teknologi keamanan siber";D1321;Y69;67;"Subkoordinator sertifikasi
-modul sandi";D1322;Y70;63;"Koordinator fungsi kebijakan pengawasan dan pengendalian teknologi keamanan siber dan
-sandi";D133;Y71;70;"Subkoordinator pengawasan
-dan pengendalian bidang pemerintahan";D1331;Y72;70;"Subkoordinator pengawassan dan pengendalian bidang non-
-pemerintahan";D1332;Y73;56;"Direktur Kebijakan Sumber
-Daya Manusia Keamanan Siber dan Sandi";D14;Y74;73;"Koordinator fungsi kebijakan standardisasi dan pemantauan SDM keamanan siber dan
-sandi";D141;Y75;74;"Subkoordinator   kebijakan
-standardisasi";D1411;Y76;74;Subkoordinator kebijakan profesi/okupasi dan pemantauan Sumber Daya Manusia Keamanan Siber dan Sandi;D1412;Y77;73;"Koordinator fungsi kebijakan sertifikasi SDM keamanan
-siber dan sandi";D142;Y78;77;"Subkoordinator skema
-sertifikasi dan materi uji kompetens";D1421;Y79;77;Subkoordinator kebijakan dan penjaminan mutu lembaga sertifikasi profesi dan lembaga pelatihan kerja;D1422;Y80;1;"Kepala Deputi Bidang Keamanan Operasi Keamanan Siber
-Nasional";D2;Y81;80;"Kepala Direktur Operasi Kemanan
-Siber";D21;Y82;81;Koordinator fungsi Operasi Identifikasi dan Proteksi;D211;Y83;81;"Koordinator fungsi Operasi Deteksi, Penanggulangan Dan Pemulihan, Penanganan Insiden Dan Krisis Siber
-Nasional";D212;Y84;81;"Koordinator fungsi Operasi Pengelolaan Informasi Dini ancaman Siber dan Analisis Big Data, Analisis Malware, serta Dukungan Penyidikan, Forensik Digital, dan
-Perbantuan Tenaga Ahli";D213;Y85;80;Kepala Direktorat  Operasi  Kemanan  dan Pengendalian  Informasi;D22;Y86;85;Koordinator fungsi operasi keamanan informasi, pengendalian Informasi dan peningkatan budaya keamanan Informasi;D221;Y87;85;"Koordinator fungsi pengelolaan
-audit keamanan infrormasi";D222;Y88;80;Kepala Direktorat  Operasi  Sandi;D23;Y89;88;"Koordinator fungsi pengelolaan
-kriptografi dan steganografi";D231;Y90;88;Koordinator fungsi pengelolaan pengamanan sinyal;D232;Y91;88;"Koordinator fungsi layanan
-materiil dan komunikasi sandi";D233;Y92;1;"Kepala Deputi Bidang Keamanan Siber dan Sandi Pemerintahan dan
-Pembangunan Manusia";D3;Y93;92;Direktur Keamanan Siber dan Sandi Pemerintah Pusat;D31;Y94;93;Koordinator fungsi tata kelola Keamanan siber dan sandi sektor pemerintah pusat, pertahanan dan penegakan hukum;D311;Y95;93;Koordinator fungsi menajemen risiko dan pengukuran tingkat kematangan keamanan siber dan sandi sektor pemerintah pusat, pertahanan dan penegakan hukum;D312;Y96;93;Koordinator fungsi pengembangan ekosistem Keamanan siber dan sektor pemerintah pusat, pertahanan dan penegakan hukum;D313;Y97;92;Direktur Keamanan Siber dan Sandi Pemerintah Daerah;D32;Y98;97;Koordinator fungsi tata kelola keamanan siber dan sandi sektor pemerintah daerah;D321;Y99;97;Koordinator fungsi menajemen risiko dan pengukuran tingkat kematangan keamanan siber dan sandi sektor pemerintah daerah;D322;Y100;97;Koordinator fungsi pengembangan ekosistem keamanan siber dan sandi sektor pemerintah daerah;D323;Y101;92;Direktur Keamanan Siber dan Sandi Pembangunan Manusia;D33;Y102;101;Koordinator fungsi tata kelola keamanan siber dan sandi sektor pendidikan, sosial, politik, keagamaan, olahraga, dan kesehatan;D331;Y103;101;Koordinator fungsi menajemen risiko dan pengukuran tingkat kematangan keamanan siber dan sandi sektor pendidikan, sosial, politik, keagamaan, olahraga, dan kesehatan;D332;Y104;101;Koordinator fungsi menajemen risiko dan pengukuran tingkat kematangan keamanan siber dan sandi sektor pendidikan, sosial, politik, keagamaan, olahraga, dan Kesehatan;D333;Y105;1;Deputi Bidang Keamanan Siber dan Sandi Perekonomian;D4;Y106;105;Direktorat Keamanan Siber dan Sandi Keuangan, Perdangangan dan Pariwisata;D41;Y107;106;"Koordinator fungsi tata kelola dan pengembangan ekosistem keamanan siber dan sandi sektor keuangan, perdagangan,
-pariwisata, dan ekonomi kreatif";D411;Y108;106;"Koordinator fungsi manajemen risiko dan pengukuran tingkat kematangan keamanan siber dan sandi sektor keuangan, perdagangan, pariwisata, dan
-ekonomi kreatif";D412;Y109;105;Direktorat Keamanan Siber dan Sandi Energi dan Sumber Daya Alam;D42;Y110;109;"Koordinator fungsi tata kelola dan pengembangan ekosistem keamanan siber dan sandi sektor energi, sumber daya mineral, pangan, dan
-kehutanan";D421;Y111;109;"Koordinator fungsi manajemen risiko dan pengukuran tingkat kematangan keamanan siber dan sandi sektor energi, sumber daya mineral, pangan,
-dan kehutanan";D422;Y112;105;Direktorat Keamanan Siber dan Sandi Teknologi Informasi dan Komunikasi, Media dan Transportasi;D43;Y113;112;"Koordinator fungsi tata kelola dan pengembangan ekosistem keamanan siber dan sandi sektor teknologi informasi dan komunikasi, media,
-transportasi, serta logistik";D431;Y114;112;"Koordinator fungsi manajemen risiko dan pengukuran tingkat kematangan keamanan siber dan sandi sektor teknologi informasi dan komunikasi, media, transportasi, serta
-logistik";D432;Y115;105;"Direktorat Keamanan Siber dan Sandi
-Industri";D44;Y116;115;"Koordinator fungsi tata kelola dan pengembangan ekosistem keamanan siber dan sandi sektor sektor industri dan jasa
-konstruksi";D441;Y117;115;"Koordinator fungsi manajemen risiko dan pengukuran tingkat kematangan keamanan siber dan sandi sektor industri dan
-jasa konstruksi";D442;Y118;1;Inspektur;IR;Y119;118;"Kepala Subbagian Tata
-Usaha Inspektorat";IR1;Y120;1;Kepala Pusat Pengkajian dan Pengembangan Teknologi Keamanan Siber dan Sandi;P1;Y121;120;Kepala Subbagian Tata Usaha Pusat Pengkajian dan Pengembangan Teknologi Keamanan Siber dan Sandi;P11;Y122;1;Kepala Pusat Data dan Teknologi Informasi Komunikasi;P2;Y123;122;"Kepala Bagian Umum Pusat Data dan Teknologi Informasi
-Komunikasi";P21;Y124;123;"Koordinator fungsi pengembangan sistem dan
-pengolahan data";P22;Y125;123;"Koordinator fungsi operasi dan
-layanan TIK";P23;Y126;123;Koordinator fungsi manajemen risiko dan kelangsungan TIK;P24;Y127;1;"Kepala  Pusat Pengembangan  Sumber
-Daya  Manusia";P3;Y128;127;"Kepala  Bagian  Umum  Pusat
-Pengembangan  Sumber Daya  Manusia";P31;Y129;128;"Subkoordinator Layanan Tata
-Usaha";P311;Y130;127;Koordinator fungsi pembinaan jabatan fungsional Keamanan siber dan sandi yang terdiri atas;P32;Y131;130;"Subkoordinatoor pembinaan
-jabatan fungsional Sandiman";P321;Y132;130;"Subkoordinator pembinaan
-jabatan fungsional Manggala Informatika";P322;Y133;127;"Koordinator fungsi pendidikan
-dan pelatihan manajemen";P33;Y134;127;"Koordinator fungsi pendidikan
-dan pelatihan teknis dan fungsional";P34;Y135;127;"Koordinator fungsi penjaminan mutu, akreditasi dan
-pembinaan alumni";P35;Y136;1;"Direktur  Politeknik  Siber
-dan  Sandi  Negara";PS;Y137;136;"Kepala  Bagian  Administrasi Akademik  Kemahasiswaan
-dan  Kerjasama";PS1;Y138;137;"Kepala  Subbagian Administrasi  Akademik  dan
-Kemahasiswaan";PS11;Y139;137;"Kepala  Subbagian
-Kerjasama  dan  Hubungan Masyarakat";PS12;Y140;136;"Kepala  Bagian  Keuangan
-dan  Umum";PS2;Y141;140;"Kepala  Subbagian Organisasi,  Sumber  Daya
-Manusia  dan  Tata  Usaha";PS21;Y142;140;"Kepala  Subbagian
-Pengelolaan  Aset  dan Rumah  Tangga";PS22;Y143;140;"Kepala  Subbagian
-Perencanaan  dan  Keuangan";PS23;Y144;1;"Kepala  Balai  Sertifikasi
-Elektronik";BS;Y145;144;"Kepala  Subbagian  Tata Usaha  Balai  Sertifikasi
-Elektronik";BS01;Y146;144;"Kepala  Seksi  Pelayanan
-Sertifikasi  Elektronik";BS02;Y147;144;"Kepala  Seksi  Pengelolaan
-Sistem  Elektronik";BS03;Y148;144;"Kepala  Seksi  Pemenuhan Sistem  Sertifikasi
-Elektronik";BS04;Y149;1;Kepala  Balai  Deteksi  Sinyal;BDS;Y150;149;"Kepala  Subbagian  Tata
-Usaha  Balai  Deteksi  Sinyal";BDS01;Y151;1;Kepala  Museum  Sandi;MS;Y
